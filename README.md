@@ -1,5 +1,5 @@
 # Ecommerce-SQL-Analysis
-# 🛒 eCommerce SQL Analysis
+# 🛒
 
 This repository contains a collection of SQL queries and answers to analytical questions based on a sample eCommerce database. It includes table creation scripts, data analysis tasks, and business insights, all written in **PostgreSQL**.
 
